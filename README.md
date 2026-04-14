@@ -8,7 +8,7 @@ A fun egg-catching game made in Scratch.
 - Reach the target score before losing all lives!
 
 ## Play Online
-(You can add a Scratch link here later)
+[(Parrot-Egg-Frenzy)](https://scratch.mit.edu/projects/1306759553)
 
 ## Screenshots
 <image-card alt="Game Screenshot" src="screenshot.png" ></image-card>
